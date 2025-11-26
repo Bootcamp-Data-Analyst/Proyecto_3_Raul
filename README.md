@@ -33,7 +33,7 @@ Limpiar y analizar la actividad de clientes de Sakila usando SQL y Python. Al fi
 
 1. Clonar repo.
 2. Ejecutar los SQL para crear vistas.
-3. Exportar vista "customer_activity_clean" a CSV para importarlo en Colab.
+3. Exportar vista `customer_activity_clean` a CSV para importarlo en Colab.
 4. Abrir notebook en Colab y correr las celdas.
 
 ## Decisiones importantes
